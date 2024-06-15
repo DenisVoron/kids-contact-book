@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kids-contact-book/static/css/main.2116bcff.css",
-    "main.js": "/kids-contact-book/static/js/main.bc502820.js",
+    "main.js": "/kids-contact-book/static/js/main.0f76df10.js",
     "static/js/253.3634d0e1.chunk.js": "/kids-contact-book/static/js/253.3634d0e1.chunk.js",
     "static/css/592.89485cbf.chunk.css": "/kids-contact-book/static/css/592.89485cbf.chunk.css",
     "static/js/592.58832656.chunk.js": "/kids-contact-book/static/js/592.58832656.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/winnie-pooh.png": "/kids-contact-book/static/media/winnie-pooh.8189d62859d269e7ac14.png",
     "index.html": "/kids-contact-book/index.html",
     "main.2116bcff.css.map": "/kids-contact-book/static/css/main.2116bcff.css.map",
-    "main.bc502820.js.map": "/kids-contact-book/static/js/main.bc502820.js.map",
+    "main.0f76df10.js.map": "/kids-contact-book/static/js/main.0f76df10.js.map",
     "253.3634d0e1.chunk.js.map": "/kids-contact-book/static/js/253.3634d0e1.chunk.js.map",
     "592.89485cbf.chunk.css.map": "/kids-contact-book/static/css/592.89485cbf.chunk.css.map",
     "592.58832656.chunk.js.map": "/kids-contact-book/static/js/592.58832656.chunk.js.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.2116bcff.css",
-    "static/js/main.bc502820.js"
+    "static/js/main.0f76df10.js"
   ]
 }
