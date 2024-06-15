@@ -7,7 +7,7 @@ export const Pluto = styled.div`
     top: 235px;
     left: 45px;
     
-    background-image: url('./pluto.png');
+    background-image: url(${({ $pluto }) => $pluto});
     background-size: 180px, cover;
     background-repeat: no-repeat;
     background-position: center;

@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { fadeIn } from 'utils/variant';
 import { MickeyMouse } from './MousePicture.styled';
+import mickeyMouse from 'image/mickey-mouse.png';
 
 export const MousePicture = () => {
   return (
@@ -10,7 +11,7 @@ export const MousePicture = () => {
       animate="show"
       exit="hidden"
     >
-      <MickeyMouse />
+      <MickeyMouse $mickeyMouse={mickeyMouse} />
     </motion.div>
   );
 };

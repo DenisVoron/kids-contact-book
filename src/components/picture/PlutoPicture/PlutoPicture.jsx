@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { fadeIn } from 'utils/variant';
 import { Pluto } from './PlutoPicture.styled';
+import pluto from 'image/pluto.png';
 
 export const PlutoPicture = () => {
   return (
@@ -10,7 +11,7 @@ export const PlutoPicture = () => {
       animate="show"
       exit="hidden"
     >
-      <Pluto />
+      <Pluto $pluto={pluto} />
     </motion.div>
   );
 };

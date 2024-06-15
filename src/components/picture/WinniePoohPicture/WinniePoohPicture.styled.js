@@ -7,7 +7,7 @@ export const WinniePooh = styled.div`
     top: 28rem;
     right: 570px;
     
-    background-image: url('./winnie-pooh.png');
+    background-image: url(${({ $winniePooh }) => $winniePooh});
     background-size: 120px, cover;
     background-repeat: no-repeat;
     background-position: center;

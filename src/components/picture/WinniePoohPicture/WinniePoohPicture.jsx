@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { fadeIn } from 'utils/variant';
 import { WinniePooh } from './WinniePoohPicture.styled';
+import winniePooh from 'image/winnie-pooh.png';
 
 export const WinniePoohPicture = () => {
   return (
@@ -10,7 +11,7 @@ export const WinniePoohPicture = () => {
       animate="show"
       exit="hidden"
     >
-      <WinniePooh />
+      <WinniePooh $winniePooh={winniePooh} />
     </motion.div>
   );
 };

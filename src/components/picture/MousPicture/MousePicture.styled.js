@@ -7,7 +7,7 @@ export const MickeyMouse = styled.div`
    top: 235px;
    right: 75px;
 
-   background-image: url('./mickey-mouse.png');
+   background-image: url(${({ $mickeyMouse }) => $mickeyMouse});
    background-size: 180px, cover;
    background-repeat: no-repeat;
    background-position: center;
