@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <ThemeProvider theme={theme}>
-          <BrowserRouter>
+          <BrowserRouter basename="/kids-contact-book">
             <App />
           </BrowserRouter>
         </ThemeProvider>
