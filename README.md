@@ -1,4 +1,4 @@
 # React template
 
-1. Установи базовые зависимости проекта командой `npm install`.
-2. Запусти режим разработки, выполнив команду `npm start`.
+1. Install basic project dependencies `npm install`.
+2. Start development mode by running the command `npm start`.
