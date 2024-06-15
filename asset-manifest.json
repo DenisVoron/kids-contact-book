@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kids-contact-book/static/css/main.2116bcff.css",
-    "main.js": "/kids-contact-book/static/js/main.bb4d50d1.js",
-    "static/js/467.638230e8.chunk.js": "/kids-contact-book/static/js/467.638230e8.chunk.js",
+    "main.js": "/kids-contact-book/static/js/main.bc502820.js",
+    "static/js/253.3634d0e1.chunk.js": "/kids-contact-book/static/js/253.3634d0e1.chunk.js",
     "static/css/592.89485cbf.chunk.css": "/kids-contact-book/static/css/592.89485cbf.chunk.css",
     "static/js/592.58832656.chunk.js": "/kids-contact-book/static/js/592.58832656.chunk.js",
     "static/js/947.7970706f.chunk.js": "/kids-contact-book/static/js/947.7970706f.chunk.js",
@@ -12,11 +12,14 @@
     "static/js/573.4c780f83.chunk.js": "/kids-contact-book/static/js/573.4c780f83.chunk.js",
     "static/js/527.acc4cf9a.chunk.js": "/kids-contact-book/static/js/527.acc4cf9a.chunk.js",
     "static/js/332.1f0a04e4.chunk.js": "/kids-contact-book/static/js/332.1f0a04e4.chunk.js",
+    "static/media/pluto.png": "/kids-contact-book/static/media/pluto.b22de2259beba66b6821.png",
+    "static/media/mickey-mouse.png": "/kids-contact-book/static/media/mickey-mouse.7b88f0ae844502805490.png",
     "static/media/backGround.jpg": "/kids-contact-book/static/media/backGround.9bc0fb2f06cd57a2761f.jpg",
+    "static/media/winnie-pooh.png": "/kids-contact-book/static/media/winnie-pooh.8189d62859d269e7ac14.png",
     "index.html": "/kids-contact-book/index.html",
     "main.2116bcff.css.map": "/kids-contact-book/static/css/main.2116bcff.css.map",
-    "main.bb4d50d1.js.map": "/kids-contact-book/static/js/main.bb4d50d1.js.map",
-    "467.638230e8.chunk.js.map": "/kids-contact-book/static/js/467.638230e8.chunk.js.map",
+    "main.bc502820.js.map": "/kids-contact-book/static/js/main.bc502820.js.map",
+    "253.3634d0e1.chunk.js.map": "/kids-contact-book/static/js/253.3634d0e1.chunk.js.map",
     "592.89485cbf.chunk.css.map": "/kids-contact-book/static/css/592.89485cbf.chunk.css.map",
     "592.58832656.chunk.js.map": "/kids-contact-book/static/js/592.58832656.chunk.js.map",
     "947.7970706f.chunk.js.map": "/kids-contact-book/static/js/947.7970706f.chunk.js.map",
@@ -29,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.2116bcff.css",
-    "static/js/main.bb4d50d1.js"
+    "static/js/main.bc502820.js"
   ]
 }
